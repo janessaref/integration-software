@@ -1,12 +1,13 @@
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Forecast from "./components/Forecast";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <Router>
-      <div>
-          <Route exact path="/" component={Forecast} />
-      </div>
+      <Routes>
+          <Route exact path="/" element={<Forecast/>} />
+      </Routes>
     </Router>
   );
 }
