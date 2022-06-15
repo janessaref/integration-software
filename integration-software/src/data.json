@@ -1,0 +1,34 @@
+[
+    {
+        "Project_Role": "Consultant",
+        "Project": "ABC Project",
+        "Period_End_Date": "01/02/2023",
+        "Customer": "ABC",
+        "Forecasted_Hours": "60",
+        "Worker": "John Doe"
+    },
+    {
+        "Project_Role": "Project Associate",
+        "Project": "ABC Project",
+        "Period_End_Date": "01/02/2023",
+        "Customer": "ABC",
+        "Forecasted_Hours": "8",
+        "Worker": "Sean McCaughlin"
+    },
+    {
+        "Project_Role": "Principal",
+        "Project": "ABC Project",
+        "Period_End_Date": "01/02/2023",
+        "Customer": "ABC",
+        "Forecasted_Hours": "20",
+        "Worker": "Obi-Wan Kenobi"
+    },
+    {
+        "Project_Role": "Consultant",
+        "Project": "XYZ Project",
+        "Period_End_Date": "01/02/2023",
+        "Customer": "XYZ",
+        "Forecasted_Hours": "100",
+        "Worker": "Samuel Vazquez"
+    }
+]
