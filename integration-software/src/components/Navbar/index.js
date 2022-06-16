@@ -8,13 +8,27 @@ function Navbar() {
             <NavLink 
                 to ="/" 
                 style={({isActive}) =>{
-                    return{color: isActive ? "red" : "grey"};
+                    return{color: isActive ? "red" : "blue"};
                 }}
             >
                 Home
             </NavLink>
-            <NavLink to ="/forecast">Forecast</NavLink>
-            <NavLink to ="/actual">Actual</NavLink>
+            <NavLink 
+                to ="/forecast"
+                style={({isActive}) =>{
+                    return{color: isActive ? "red" : "blue"};
+                }}
+            >
+                Forecast
+            </NavLink>
+            <NavLink 
+                to ="/actual"
+                style={({isActive}) =>{
+                    return{color: isActive ? "red" : "blue"};
+                }}
+            >
+                Actual
+            </NavLink>
         </nav>
     )
 };
