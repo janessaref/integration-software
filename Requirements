@@ -24,8 +24,10 @@ Column Properties
 •	 Hide Columns 
 •	 Header tool tips 
 •	 Validation on cell data 
-•	 Column Groups - React Grid: Column Groups (ag-grid.com) 
+•	 Column Grouping - https://www.ag-grid.com/javascript-data-grid/column-groups/ 
+       * All the hours collapse into a single column which shows total forecast hours. 
 *  Change Cell Color on update
+       * When a cell value changes from it's original value then the Cell color turns Red.
 
 Optional Properties 
 •	 Lock Column position (from move) 
