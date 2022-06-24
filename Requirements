@@ -1,0 +1,38 @@
+Requirements and Design Details
+
+'x' = implemented 
+
+Grid Properties 
+•	 Export to XLS 
+•	 Show count / Pagination (e.g.Page x of x) - https://www.ag-grid.com/javascript-grid/row-pagination/ 
+•	 Edit Cell Value (for hours only)
+•	 Resize layout with Container - https://codesandbox.io/s/github/rexebin/AgGridAutoResizeToFitContainer 
+•	 Drag to top grid to set row groups 
+•	 Show overlay loading pulling data - https://www.ag-grid.com/javascript-data-grid/overlays/ 
+
+Row Properties 
+•	 Alternating Row color 
+
+Column Properties 
+•	 Resizable Columns 
+•	 Pin Columns 
+•	 Filter Columns 
+•	 Sort Asc/Desc by Column 
+•	 Auto Size to Fit (on load) 
+•	 Double click auto column resize 
+•	 Shift resize (takes space from adjacent) 
+•	 Hide Columns 
+•	 Header tool tips 
+•	 Validation on cell data 
+•	 Column Groups - React Grid: Column Groups (ag-grid.com) 
+*  Change Cell Color on update
+
+Optional Properties 
+•	 Lock Column position (from move) 
+•	 Lock resizing 
+•	 Row Spanning (merge like function) 
+•	 Pin Rows 
+•	 Drag Rows 
+•	 Display Rows per page option (25,50,100) 
+•	 Toggle Light/Dark theme  - Light/Dark mode toggle with React using Context API and styled components - DEV Community 
+ 
