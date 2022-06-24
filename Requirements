@@ -26,7 +26,7 @@ Column Properties
 •	 Validation on cell data 
 •	 Column Grouping - https://www.ag-grid.com/javascript-data-grid/column-groups/ 
        * All the hours collapse into a single column which shows total forecast hours. 
-*  Change Cell Color on update
+*  Change Cell Color on update - https://stackoverflow.com/questions/39648623/how-to-change-color-of-ag-grid-cells-for-dynamically-changing-data
        * When a cell value changes from it's original value then the Cell color turns Red.
 
 Optional Properties 
