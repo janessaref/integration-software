@@ -1,0 +1,128 @@
+{
+"Report_Entry": [{
+   "Project_Role": "WD Consultant - Mid",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "100"
+},
+{
+   "Project_Role": "WD Integrations Principal",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "20"
+},
+{
+   "Project_Role": "Project Associate - MS",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "6",
+   "Worker": "Charlie Durbin"
+},
+{
+   "Project_Role": "WD Payroll Principal",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "30",
+   "Worker": "John Khoo"
+},
+{
+   "Project_Role": "WD Portfolio Director",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "3",
+   "Worker": "Mike Noack"
+},
+{
+   "Project_Role": "WD Engagement Manager",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "4",
+   "Worker": "Toni Macaluso"
+},
+{
+   "Project_Role": "WD Payroll Associate",
+   "Project": "Project 1",
+   "Period_End_Date": "01/02/2023",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "20",
+   "Worker": "Victoria Bailie"
+},
+{
+   "Project_Role": "WD Technical Consultant - GDC",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "15",
+   "Worker": "Arbee Canzon"
+},
+{
+   "Project_Role": "WD Reporting Associate",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "10",
+   "Worker": "Casey Doran"
+},
+{
+   "Project_Role": "WD Change Management Principal",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "20",
+   "Worker": "Cody Christensen"
+},
+{
+   "Project_Role": "WD Integrations Principal",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "15",
+   "Worker": "Dan Noay"
+},
+{
+   "Project_Role": "WD Integrations Principal",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "1",
+   "Worker": "Dan Peters"
+},
+{
+   "Project_Role": "WD Engagement Manager",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "8",
+   "Worker": "Dave Meyers (Terminated)"
+},
+{
+   "Project_Role": "WD Compensation Core Lead",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "5",
+   "Worker": "Devan Perry"
+},
+{
+   "Project_Role": "WD HCM Core Principal",
+   "Project": "Project 1",
+   "Period_End_Date": "01/03/2022",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "20",
+   "Worker": "Devan Perry"
+},
+{
+   "Project_Role": "WD Data Conversion Associate",
+   "Project": "Project 1",
+   "Period_End_Date": "12/27/2021",
+   "Customer": "Customer 1",
+   "Forecasted_Hours": "10",
+   "Worker": "Wally Wallace"
+}]
+}
